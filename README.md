@@ -6,15 +6,12 @@ C++ developer learning embedded systems, low-level tooling, and systems programm
 
 ### 🔧 Currently Building
 
-* `doom-emacs` - creating a custom workflow environment
-* `fmt-sandbox` – exploring modern C++ formatting with `fmtlib`
-* `learning-log` – weekly markdown log of progress, experiments, and notes
-* `arduino-basics` - learning how to work with microcontrollers in the Arduino dev environment
-* `serenity-notes` – system-level study of SerenityOS internals
+* `cc-neovim` - creating a custom workflow environment catered specifically to C/C++ development
+* `cpp-template` – lightweight and scalable build template using CMake
 * `smt32-basics` - low-level C++ experiments with ARM Cortex-M microcontrollers
-
+* `dev-tools` - a combination of scripts and cli tools written in C++ to boost productivity 
 ---
 
 ### 🛠️ Tools & Environment
 
-* Fedora (WSL) • emacs • C++ • AVR-GCC • fmtlib • Git • MinGW • SMT32 (ARM Cortex-M)
+* Fedora (WSL) • cc-neovim • C++ • AVR-GCC • Codelite • Git • MinGW • SMT32 (ARM Cortex-M)
