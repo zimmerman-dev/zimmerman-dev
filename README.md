@@ -2,7 +2,7 @@
 
 C++ developer learning embedded systems, low-level tooling, and systems programming. Focused on building practical knowledge through hands-on projects.
 
-Profile Picture credit: [Markus Spiske - Unsplash](https://unsplash.com/@markusspiske)
+Profile Picture credit: [Markus Spiske - Unsplash](https://unsplash.com/@markusspiske){:target="_blank"}
 
 
 ## 🔧 Currently Building
