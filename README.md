@@ -9,7 +9,7 @@ Profile Picture credit: <a href="https://unsplash.com/@markusspiske" target="_bl
 
 * `cc-neovim` - creating a custom workflow environment catered specifically to C/C++ development
 * `cpp-template` – lightweight and scalable build template using CMake
-* `taskpad-cli` - lightweight CLI task-manager tool that tracks tasks and productivity time
+* `gamma-ray` - cellular automata project. With a twist ;)
 * `zettel-note` - atomic note system inspired by zettelkasten using Obsidian
 
 
