@@ -15,8 +15,6 @@ Profile Picture credit: <a href="https://unsplash.com/@markusspiske" target="_bl
 
 ## 🛠️ Tools & Environment
 
- • cc-neovim • SQL • C/C++ • MinGW • Git • CMake • Obisidan  • Zellij • Fedora WSL2
-___
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="Embedded C" width="40" height="40" style="margin-right: 15px;" />
