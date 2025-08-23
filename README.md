@@ -15,4 +15,4 @@ Profile Picture credit: <a href="https://unsplash.com/@markusspiske" target="_bl
 
 ## 🛠️ Tools & Environment
 
- • Fedora (WSL) • cc-neovim • C++ • AVR-GCC • Codelite • Git • MinGW • Obisidan  • CLion • Arduino
+ • cc-neovim • SQL • C/C++ • MinGW • Git • CMake • Obisidan  • Zellij • Fedora WSL2
