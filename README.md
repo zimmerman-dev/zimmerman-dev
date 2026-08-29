@@ -1,6 +1,6 @@
 # John Zimmerman
 
-C++ developer learning embedded systems, low-level tooling, and systems programming. Focused on building practical knowledge through hands-on projects.
+Student developer currently enrolled at Madison Area Technical College.
 
 Profile Picture credit: <a href="https://unsplash.com/@markusspiske" target="_blank">Markus Spiske - Unsplash<a/>
 
