@@ -1,8 +1,6 @@
 # John Zimmerman
 
-Student developer currently enrolled at Madison Area Technical College.
-
-Profile Picture credit: <a href="https://unsplash.com/@markusspiske" target="_blank">Markus Spiske - Unsplash<a/>
+Student developer currently enrolled at Madison Area Technical College>
 
 
 ## 🔧 Currently Building
