@@ -12,19 +12,19 @@ Student developer currently enrolled at Madison Area Technical College. Associat
 
 ## Tools & Technologies
 
-### Staticly Typed Programming Languages
+### OOP Design Philosophy
 <p align="left">
   <!-- JAVA -->
-  <img src="https://devicons.io/devicons/icons/javascript.svg" alt="Vanilla JS" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <!-- C++ -->
   <img src="https://devicons.io/devicons/icons/java.svg" alt="Java" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- C++ -->
+  <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <br>
 </p>
 
 ### Web Development
 <p align="left">
   <!-- JS -->
-  <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <img src="https://devicons.io/devicons/icons/javascript.svg" alt="Vanilla JS" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <!-- HTML -->
   <img src="https://devicons.io/devicons/icons/html-5.svg" alt="HTML" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <!-- CSS -->
