@@ -1,28 +1,45 @@
 # John Zimmerman
 
-Student developer currently enrolled at Madison Area Technical College>
+Student developer currently enrolled at Madison Area Technical College. Associate Degree Applied Science IT: Web Software Development. Expected graduation 2027.
 
 
-## 🔧 Currently Building
+## Currently Studying
 
-* `cc-neovim` - creating a custom workflow environment catered specifically to C/C++ development
-* `cpp-template` – lightweight and scalable build template using CMake
-* `gamma-ray` - cellular automata project. With a twist ;)
-* `zettel-note` - atomic note system inspired by zettelkasten using Obsidian
+* `Java` - OOP design philosophy
+* `SQL` - MySQL and Relational Database Management Systems
+* `PHP` - CRUD Applications
+* `UI/UX` - Design user solutions and interfaces
 
 
-## 🛠️ Tools & Environment
+
+
+## Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="Embedded C" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" alt="CMake" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />
+  <!-- JAVA -->
+  <img src="https://devicons.io/devicons/icons/java.svg" alt="Java" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- JS -->
+  <img src="https://devicons.io/devicons/icons/javascript.svg" alt="Vanilla JS" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- Docker -->
+  <img src="https://devicons.io/devicons/icons/docker.svg" alt="Docker" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- Debian/Linux -->
+  <img src="https://devicons.io/devicons/icons/debian.svg" alt="Debian Linux" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- Apache -->
+  <img src="https://devicons.io/devicons/icons/apache.svg" alt="Apache" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- MySQL -->
+  <img src="https://devicons.io/devicons/icons/mysql.svg
+  " alt="MySQL" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- PHP -->
+  <img src="https://devicons.io/devicons/icons/php.svg" alt="PHP" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- HTML -->
+  <img src="https://devicons.io/devicons/icons/html-5.svg" alt="HTML" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- CSS -->
+  <img src="https://devicons.io/devicons/icons/css.svg" alt="CSS" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- Github -->
+  <img src="https://devicons.io/devicons/icons/git.svg" alt="Git" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- Figma -->
+  <img src="https://devicons.io/devicons/icons/figma.svg" alt="Figma" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <!-- C++ -->
+  <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
 </p>
 
