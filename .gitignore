@@ -1,1 +1,24 @@
-/build/\n*.log/n*.tmp
+# --- your original patterns, fixed ---
+/build/
+*.log
+*.tmp
+ 
+# --- Emacs package/cache directories (regenerated automatically) ---
+elpa/
+.cask/
+auto-save-list/
+url/
+eln-cache/
+ 
+# --- org-persist cache (covers both old and new Emacs versions) ---
+org-persist/
+.local/etc/org-persist/
+ 
+# --- custom-file / local overrides you don't want tracked ---
+custom.el
+ 
+# --- misc editor/OS junk ---
+*~
+\#*\#
+.\#*
+.DS_Store
