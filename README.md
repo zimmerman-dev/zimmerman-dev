@@ -41,8 +41,7 @@ Student developer currently enrolled at Madison Area Technical College. Associat
   <!-- Apache -->
   <img src="https://devicons.io/devicons/icons/apache.svg" alt="Apache" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <!-- MySQL -->
-  <img src="https://devicons.io/devicons/icons/mysql.svg
-  " alt="MySQL" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
+  <img src="https://devicons.io/devicons/icons/mysql.svg" alt="MySQL" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <!-- PHP -->
   <img src="https://devicons.io/devicons/icons/php.svg" alt="PHP" width="40" height="40" style="margin-right: 15px;" /> &nbsp &nbsp
   <br>
